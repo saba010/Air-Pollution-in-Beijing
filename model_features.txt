@@ -1,0 +1,12 @@
+hour_sin
+hour_cos
+month_sin
+month_cos
+temp_minus_dew
+time_slot
+TEMP
+PRES
+Iws
+is_weekend
+pm25_lag_24h
+pm25_lag_168h
